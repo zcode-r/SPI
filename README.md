@@ -14,7 +14,6 @@ SPI/
 │   └── spi_top.sv
 ├── tb/
 │   └── spi_tb.sv
-├── spi_waveform.png
 └── README.md
 ```
 
